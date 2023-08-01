@@ -24,7 +24,7 @@ export const Form = ({ addDiscussion }) => {
             <textarea
               id="story"
               name="story"
-              placeholder="질문을 작성하세요33"
+              placeholder="질문을 작성하세요34"
               required
             ></textarea>
           </div>
